@@ -2,7 +2,7 @@
 How you can Insert and Fetch the data from server using Volley and RecyclerView?
 
 **Introduction to volley**
-Volley is a networking library it offers great features like synchronous requests, asynchronous requests, prioritization, making multiple requests at the same time, ordered requests and of course caching.
+Volley is a HTTP library developed by Google and was first introduced during Google I/O 2013. This library is used to transmit data over the network. It actually makes networking faster and easier for Apps.Volley is a networking library it offers great features like synchronous requests, asynchronous requests, prioritization, making multiple requests at the same time, ordered requests and of course caching.
 
 1.	No automatic parsing
 2.	Caching Mechanism
