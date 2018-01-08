@@ -17,6 +17,9 @@ Volley supports both post requests and multipart uploads but for post requests w
 
 Volley we can set a retry policy using set**RetryPolicy** method. It support the customized request timeout, number of retries and back off multiplier.
 
+**Image Loading** Volley has an inbuilt support for image loading.it is packaged with a loader a custom view called NetworkImageView which is specially designed to download and show images.
+
+
 **Volley can capture four types of responses automatically through these requests:**
 
 
